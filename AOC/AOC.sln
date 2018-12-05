@@ -3,6 +3,10 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AOC.Api", "AOC.Api\AOC.Api.csproj", "{FAC64777-56C6-4EC4-8FE6-DC189138A333}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AOC.Services", "AOC.Services\AOC.Services.csproj", "{4CF44422-3DEC-4546-9787-24DF0D6C38D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AOC.Domain", "AOC.Domain\AOC.Domain.csproj", "{6FCB0FD0-F7F8-43AF-88FA-A9DEAFE09D94}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,5 +17,13 @@ Global
 		{FAC64777-56C6-4EC4-8FE6-DC189138A333}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FAC64777-56C6-4EC4-8FE6-DC189138A333}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FAC64777-56C6-4EC4-8FE6-DC189138A333}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CF44422-3DEC-4546-9787-24DF0D6C38D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CF44422-3DEC-4546-9787-24DF0D6C38D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CF44422-3DEC-4546-9787-24DF0D6C38D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CF44422-3DEC-4546-9787-24DF0D6C38D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FCB0FD0-F7F8-43AF-88FA-A9DEAFE09D94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FCB0FD0-F7F8-43AF-88FA-A9DEAFE09D94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FCB0FD0-F7F8-43AF-88FA-A9DEAFE09D94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FCB0FD0-F7F8-43AF-88FA-A9DEAFE09D94}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
