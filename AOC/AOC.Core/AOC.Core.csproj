@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Year2018\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="2018\Day5.cs" />
+  </ItemGroup>
+</Project>

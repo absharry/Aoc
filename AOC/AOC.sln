@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AOC.Services", "AOC.Service
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AOC.Domain", "AOC.Domain\AOC.Domain.csproj", "{6FCB0FD0-F7F8-43AF-88FA-A9DEAFE09D94}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AOC.Core", "AOC.Core\AOC.Core.csproj", "{221AB841-A9A0-4AAB-8A50-B31FCC44AEFB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,5 +27,9 @@ Global
 		{6FCB0FD0-F7F8-43AF-88FA-A9DEAFE09D94}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6FCB0FD0-F7F8-43AF-88FA-A9DEAFE09D94}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6FCB0FD0-F7F8-43AF-88FA-A9DEAFE09D94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{221AB841-A9A0-4AAB-8A50-B31FCC44AEFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{221AB841-A9A0-4AAB-8A50-B31FCC44AEFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{221AB841-A9A0-4AAB-8A50-B31FCC44AEFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{221AB841-A9A0-4AAB-8A50-B31FCC44AEFB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

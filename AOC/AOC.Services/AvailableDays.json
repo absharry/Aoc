@@ -1,5 +1,14 @@
 ﻿{
   "Years": [
-
+    {
+      "Year":  "2018",
+      "AvailableDays": [
+        {
+          "Day": 5,
+          "Part1Complete":  true,
+          "Part2Complete":  true
+        }
+      ]
+    }
   ]
 }
